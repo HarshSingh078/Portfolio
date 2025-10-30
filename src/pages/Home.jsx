@@ -1,3 +1,5 @@
 export const Home = () => {
-    return <div>Home Page</div>
+    return <div className="min-h-screen">
+
+    </div>
 }
