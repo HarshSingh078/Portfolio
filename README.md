@@ -1,16 +1,35 @@
-# React + Vite
+# Harsh Singh — Frontend Developer  
+[Portfolio 🔗](https://portfolio-indol-eta-64.vercel.app/)  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 👋 About Me  
+Hi there! I’m **Harsh Singh**, a passionate Frontend Developer specializing in building responsive and modern web applications.  
+I work with technologies like **HTML, CSS / SASS, TailwindCSS, JavaScript, ReactJS, NextJS**, and Bootstrap.  
 
-Currently, two official plugins are available:
+I enjoy turning ideas into clean, user-friendly interfaces and smooth interactions — whether it’s a landing page, web app or component library.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack  
+- HTML5 & CSS3 (including SASS)  
+- TailwindCSS  
+- Bootstrap  
+- JavaScript (ES6+)  
+- ReactJS  
+- NextJS  
 
-## React Compiler
+## 🌟 Projects & Portfolio  
+You can check out my live portfolio here: [https://portfolio-indol-eta-64.vercel.app/](https://portfolio-indol-eta-64.vercel.app/)  
+It showcases my skills, projects, and how I bring designs to life on the web.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📫 Connect With Me  
+- GitHub: (https://github.com/HarshSingh078)  
+- Email: (harshsinghji0525@gmail.com)
+- LinkedIn: *[Add your LinkedIn link if you have]*  
 
-## Expanding the ESLint configuration
+## 🎯 What I’m Looking For  
+I’m always open to new challenges in frontend development — building interactive user experiences, optimizing performance, and collaborating on team projects or open-source.  
+If you have a project or opportunity where I can contribute, let’s chat!
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+Thanks for stopping by — I hope you enjoy exploring my work.
+
+*— Harsh Singh*  
